@@ -54,7 +54,6 @@ C:\Users\miguel\source\repos\Bibloteca\Bibloteca\bin\Debug\netcoreapp3.0\runtime
 C:\Users\miguel\source\repos\Bibloteca\Bibloteca\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
 C:\Users\miguel\source\repos\Bibloteca\Bibloteca\obj\Debug\netcoreapp3.0\Bibloteca.csproj.CoreCompileInputs.cache
 C:\Users\miguel\source\repos\Bibloteca\Bibloteca\obj\Debug\netcoreapp3.0\Bibloteca.MvcApplicationPartsAssemblyInfo.cache
-D:\programacion.net\Bibloteca\Bibloteca\obj\Debug\netcoreapp3.0\Bibloteca.csprojAssemblyReference.cache
 D:\programacion.net\Bibloteca\Bibloteca\obj\Debug\netcoreapp3.0\Bibloteca.AssemblyInfoInputs.cache
 D:\programacion.net\Bibloteca\Bibloteca\obj\Debug\netcoreapp3.0\Bibloteca.AssemblyInfo.cs
 D:\programacion.net\Bibloteca\Bibloteca\obj\Debug\netcoreapp3.0\Bibloteca.dll
@@ -112,3 +111,8 @@ D:\programacion.net\Bibloteca\Bibloteca\bin\Debug\netcoreapp3.0\Microsoft.AspNet
 D:\programacion.net\Bibloteca\Bibloteca\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
 D:\programacion.net\Bibloteca\Bibloteca\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
 D:\programacion.net\Bibloteca\Bibloteca\bin\Debug\netcoreapp3.0\Newtonsoft.Json.Bson.dll
+D:\programacion.net\Bibloteca\Bibloteca\bin\Debug\netcoreapp3.0\AutoMapper.dll
+D:\programacion.net\Bibloteca\Bibloteca\bin\Debug\netcoreapp3.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\programacion.net\Bibloteca\Bibloteca\obj\Debug\netcoreapp3.0\Bibloteca.csproj.CoreCompileInputs.cache
+D:\programacion.net\Bibloteca\Bibloteca\obj\Debug\netcoreapp3.0\Bibloteca.MvcApplicationPartsAssemblyInfo.cache
+D:\programacion.net\Bibloteca\Bibloteca\obj\Debug\netcoreapp3.0\Bibloteca.csprojAssemblyReference.cache
